@@ -1,6 +1,6 @@
 #include <stdio.h>
-#include <stdint.h>
 #include <stdlib.h>
+#include "ringbuffer.h"
 
 #define HEADSIZE 2
 #define LENGTHSIZE 2
